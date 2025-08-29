@@ -1,0 +1,326 @@
+
+
+.amazon-sec-div2 {
+  padding-top: 90px;
+  padding-bottom: 95px;
+}
+
+.amazon-wonder-text1 {
+  font-family: Bebas neue, sans-serif;
+  font-size: 72px;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #101118;
+
+}
+
+.image-sec-text2{
+margin-top: 65px;
+}
+
+.image-listing-img112{
+    height: 82px;
+    display: flex;
+    align-items: end;
+}
+
+.images-listing-text1{
+color: #202026;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 36px; /* 150% */
+margin-top: 26px;
+
+}
+
+.images-listing-text2{
+  color: #6C757D;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 150% */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.amazon-home-sec-div3 {
+  padding-top: 110px;
+  padding-bottom: 110px;
+  background-color: #101118;
+}
+
+.listing-img-text-div1 .col-lg-6{
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.listing-img-text12{
+    color: #FFF;
+font-family: "Bebas Neue";
+font-size: 74px;
+font-style: normal;
+font-weight: 400;
+line-height: 75px; /* 101.351% */
+}
+
+.listing-img-text22{
+    color: #D7D7D7;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 150% */
+margin-top: 15px;
+}
+
+.images-ul-text1{
+margin-top: 20px;
+padding-left: 17.5px;
+}
+
+.images-ul-text1 li{
+    color: #D7D7D7;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 150% */
+margin-top: 14px;
+}
+
+
+
+
+
+
+
+
+.amazon-home-whitesec-div3 {
+  padding-top: 110px;
+  padding-bottom: 110px;
+  background-color: white;
+}
+
+
+.listing-img-whitetext12{
+    color: #293645;
+font-family: "Bebas Neue";
+font-size: 74px;
+font-style: normal;
+font-weight: 400;
+line-height: 75px; /* 101.351% */
+}
+
+.listing-img-whitetext22{
+ color: #6C757D;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 150% */
+margin-top: 15px;
+}
+
+.images-ul-whitetext1{
+margin-top: 20px;
+padding-left: 17.5px;
+
+}
+
+.images-ul-whitetext1 li{
+  color: #6C757D;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 150% */
+margin-top: 14px;
+}
+
+
+
+.ecommerce-pics-img1{
+  min-width: 100%;
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 576px) {
+
+    
+.amazon-sec-div2 {
+  padding-top: 70px;
+  padding-bottom: 75px;
+}
+
+.amazon-wonder-text1 {
+  font-size: 44px;
+  text-align: center;
+  line-height: 1.1;
+}
+
+.image-sec-text2{
+margin-top: 0px;
+}
+
+.image-listing-img112{
+    height: 80px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.images-listing-text1{
+font-size: 22px;
+line-height: 32px; /* 150% */
+margin-top: 15px;
+text-align: center;
+}
+
+.images-listing-text2{
+font-size: 16px;
+line-height: 24px; /* 150% */
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.amazon-home-sec-div3 {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #101118;
+}
+
+.listing-img-text-div1{
+  row-gap: 40px;
+}
+
+.listing-img-text-div1 .col-lg-6{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.listing-img-text12{
+font-size: 44px;
+line-height: 50px; /* 101.351% */
+}
+
+.listing-img-text22{
+font-size: 16px;
+line-height: 24px; /* 150% */
+margin-top: 15px;
+padding-right: 10px;
+
+}
+
+.images-ul-text1{
+margin-top: 20px;
+padding-right: 10px;
+}
+
+.images-ul-text1 li{
+font-size: 16px;
+line-height: 24px; /* 150% */
+margin-top: 14px;
+}
+
+
+
+
+
+
+
+
+.amazon-home-whitesec-div3 {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: white;
+}
+
+
+.listing-img-whitetext12{
+font-size: 44px;
+line-height: 50px; /* 101.351% */
+}
+
+.listing-img-whitetext22{
+font-size: 16px;
+line-height: 24px; /* 150% */
+margin-top: 15px;
+padding-right: 10px;
+
+}
+
+.images-ul-whitetext1{
+margin-top: 20px;
+padding-right: 10px;
+
+}
+
+.images-ul-whitetext1 li{
+font-size: 16px;
+line-height: 24px; /* 150% */
+margin-top: 14px;
+}
+
+
+
+.ecommerce-pics-img1{
+  min-width: 100%;
+}
+
+
+
+}

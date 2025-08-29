@@ -1,0 +1,184 @@
+.account-amazon-div1 {
+  padding-top: 20px;
+  padding-bottom: 90px;
+}
+
+.account-amazon-text1 {
+  color: #293645;
+  font-family: "Bebas Neue";
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 75px; /* 101.351% */
+}
+
+.account-amazon-ul1 {
+  list-style: auto;
+  padding-left: 17px;
+  margin-top: 24px;
+}
+
+.account-amazon-ul1 li {
+  color: #636363;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+}
+
+.account-amazon-text2 {
+  color: #636363;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 150% */
+}
+
+.account-amazon-img1 {
+  margin-top: 50px;
+}
+
+.account-points-div1 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: #101118;
+}
+
+.account-points-img-div1 {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.account-points-textdiv1 {
+  padding-right: 30px;
+}
+
+.account-points-text1 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.account-points-text2 {
+  color: #d3d3d3;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 30px; /* 166.667% */
+  margin-bottom: 0px !important;
+  margin-top: 15px;
+}
+
+.account-point-line-svg1 {
+  background: #363636;
+  height: 0.8px;
+  width: 100%;
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+/* ####################     Mobile Screen Css Media Queris ####################### */
+
+@media screen and (max-width: 576px) {
+  .for-mobile-home-banner-p121 {
+    /* text-align: center !important; */
+    margin-top: 64px !important;
+  }
+
+  .for-mobile-profile-text1 {
+    font-size: 56px !important;
+    line-height: 62px !important;
+    text-align: center;
+  }
+
+  .for-mobile-home-banner-para1 {
+    text-align: center !important;
+  }
+
+  .account-amazon-div1 {
+    padding-top: 10px;
+    padding-bottom: 75px;
+  }
+
+  .account-amazon-text1 {
+    font-size: 38px;
+    line-height: 44px;
+  }
+  .account-amazon-ul1 {
+    list-style: unset;
+    padding-left: 16px;
+    margin-top: 25px;
+  }
+  .account-amazon-ul1 li {
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 8px;
+  }
+
+  .account-amazon-text2 {
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 25px;
+  }
+  .account-amazon-img1 {
+    margin-top: 30px;
+  }
+
+  .account-points-div1 {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background: #101118;
+  }
+  .account-points-textdiv1 {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 25px;
+  }
+
+  .account-points-text1 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .account-points-text2 {
+    color: #d3d3d3;
+    font-family: Poppins;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    margin-bottom: 0px !important;
+    margin-top: 15px;
+    text-align: center;
+  }
+
+  .plus-sign-div1-for-mobile {
+    border: 1px solid gray;
+    width: 160px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    margin-top: 30px;
+  }
+
+  .plus-sign-div1-for-mobile svg {
+    width: 27px;
+  }
+
+  .account-point-line-svg1 {
+    background: #363636;
+    height: 0.8px;
+    width: 100%;
+    margin-top: 35px;
+    margin-bottom: 45px;
+  }
+}
